@@ -1,0 +1,5 @@
+.idea
+build
+time_logger_cog.egg-info
+**/__pycache__
+dist

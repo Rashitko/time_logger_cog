@@ -1,0 +1,3 @@
+modules:
+- {class_name: TimeLogger, prefix: time_logger_cog.modules.time_logger}
+recorders: []
